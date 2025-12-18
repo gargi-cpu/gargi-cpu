@@ -1,72 +1,67 @@
-## Hi there 👋
-# Hi there 👋, I'm Gargi Singh 😎  
-### A Passionate Software Developer & AI/ML Enthusiast  
+<h1 align="center">🎯 Gargi Singh</h1>
 
-🚀 **About Me**  
-I'm a final-year Computer Science student (B.Tech, AKTU) with a CGPA of 8.0.  
-Currently exploring AI-driven development, cloud-native applications, and full-stack solutions.  
+<p align="center">
+  <b>Architecting high-performance, scalable web applications that transform complex problems into elegant, user-centric digital experiences.</b>
+</p>
 
-🌱 I’m currently learning **Advanced Prompt Engineering**, **Oracle Cloud**, and **AI Speech Systems**.  
-💬 Ask me about **React.js, Node.js, MongoDB, AI/ML, and Cloud Development**  
-🎯 Goals: GSoC 2026 • MS in the USA 🇺🇸 • Build AI-powered developer tools  
-🎵 Fun fact: I love experimenting with AI-generated voices & 3D modeling!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gargi-cpu&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🧩 Skills & Tools  
+## 🛠 My Developer Toolkit
 
-💻 **Languages:** JavaScript (ES6+), Java (OOPs, DS & Algo), Python (basic)  
-🧠 **Frameworks & Libraries:** React.js, Redux, Node.js, Express.js  
-🛠️ **Databases:** MongoDB, SQL (Basic)  
-☁️ **Platforms:** Git, GitHub, VS Code, Vercel, Render, Oracle Cloud  
-⚙️ **Practices:** Agile, TDD, BDD, Code Reviews, UI Performance Optimization  
+🧰 **My end-to-end software engineering toolkit**
 
----
-
-## 💼 Experience  
-
-**Full Stack Web Developer (MERN)** — *EY GDS & AICTE* (Feb 2025 – Mar 2025)  
-• Designed React dashboards inspired by trading platforms  
-• Improved UI responsiveness → +30% user engagement  
-• Migrated modules into Next.js for scalability  
-
-**AI Developer Intern** — *Microsoft & SAP Collaboration* (Jan 2025 – Feb 2025)  
-• Built an AI Speech Synthesis system with custom voice generation  
-• Enhanced accessibility using real-time UI dashboards  
+- **Languages:** JavaScript, Python, Java, C  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express, REST APIs  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, VS Code, Postman  
 
 ---
 
-## 🧠 Featured Projects  
+## 🏆 Project Showcase
 
-🔹 [**Crowdfunding Platform**](https://github.com/gargi-cpu) — MERN-based fundraising system with secure payments  
-🔹 [**AI Speech Synthesis**](https://github.com/gargi-cpu) — Custom TTS engine with React dashboard  
-🔹 [**3D Model Generation (Ongoing)**](https://github.com/gargi-cpu) — AI + Blender + Three.js for 3D automation  
+🚀 **Click to view my featured projects...**
 
----
-
-## 🏆 Certifications  
-
-🏅 **Oracle Cloud Infrastructure (OCI) 2025 Certified Developer Professional**  
-🏅 **Full Stack Developer (Apna College)**  
-🏅 **Prompt Engineering in NLP (Research Paper Author)**  
+- 🔹 Full Stack Web Applications  
+- 🔹 JavaScript Games & Logic Projects  
+- 🔹 API-based Applications  
+- 🔹 AI / ML Mini Projects  
 
 ---
 
-## 🌐 Connect with Me  
+## 📊 My GitHub Stats & Activity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gargi-singh-62ab82315/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/gargi-cpu)  
-[![Gmail](https://img.shields.io/badge/Email-gargi9608@gmail.com-red?logo=gmail)](mailto:gargi9608@gmail.com)  
+> My contributions are a living testament to my daily dedication to the craft of software engineering.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gargi-cpu&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargi-cpu" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🐍 Contribution Snake Animation
 
-![Gargi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gargi-cpu&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gargi-cpu&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-⭐️ *"Building AI for People, not just Programs."*  
-...
--->
+## 📫 Let’s Build the Future Together
+
+I’m always open to collaborating on exciting projects or discussing the future of technology.  
+Feel free to reach out!
+
+<p align="center">
+  <a href="https://your-portfolio-link">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/your-link">💼 LinkedIn</a> •
+  <a href="mailto:gargi@email.com">📧 Email</a>
+</p>
