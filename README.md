@@ -1,8 +1,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Cloud-Native+Stock+Platform;Real+NSE+Market+Data+Dashboard;Spring+Boot+%2B+React+%2B+Kubernetes+Ready;Built+with+Production+Engineering+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=1100&lines=Final-Year+CSE+Student;Full-Stack+Developer;Cloud-Native+Engineer+%7C+Kubernetes+Enthusiast;Ex-Intern+%40+EY+GDS;Ex-Intern+%40+Microsoft+%26+SAP+(AI+%26+Innovation);AI+%26+Prompt+Engineering+in+NLP;Research+%26+Production-Grade+System+Builder" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
