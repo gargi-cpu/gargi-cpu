@@ -120,7 +120,14 @@ The architecture ensures:
 </p>
 ## 🐍 GitHub Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/github-contribution-snake-dark.svg">
+    <img alt="GitHub Contribution Snake"
+         src="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/github-contribution-snake.svg">
+  </picture>
+</p>
 
 
 ---
