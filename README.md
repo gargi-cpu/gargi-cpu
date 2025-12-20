@@ -118,18 +118,17 @@ The architecture ensures:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargi-cpu&layout=compact&theme=tokyonight" alt="langs" />
 </p>
+
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/github-contribution-snake-dark.svg">
-    <img
-      src="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/github-contribution-snake.svg"
-      alt="GitHub Contribution Snake">
+            srcset="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/snake-dark.svg">
+    <img alt="GitHub Contribution Snake"
+         src="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/snake.svg">
   </picture>
 </p>
-
 
 
 ---
