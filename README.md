@@ -61,6 +61,14 @@ Scalable async backend for AI tasks (speech synthesis)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargi-cpu&layout=compact&theme=tokyonight" alt="langs" />
 </p>
+<!-- Contribution Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/snake.svg" width="800"/>
+  </picture>
+</p>
 
 ---
 
