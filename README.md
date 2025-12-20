@@ -121,12 +121,6 @@ The architecture ensures:
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/github-contribution-grid-snake.svg)
 
-## 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-17-red)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-green)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Ready-blue)
-![React](https://img.shields.io/badge/React-Frontend-61dafb)
 
 ---
 
