@@ -123,11 +123,13 @@ The architecture ensures:
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/github-contribution-snake-dark.svg">
-    <img alt="GitHub Contribution Snake"
-         src="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/github-contribution-snake.svg">
+      srcset="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/github-contribution-snake-dark.svg">
+    <img
+      src="https://raw.githubusercontent.com/gargi-cpu/gargi-cpu/output/github-contribution-snake.svg"
+      alt="GitHub Contribution Snake">
   </picture>
 </p>
+
 
 
 ---
