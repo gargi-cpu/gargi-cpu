@@ -1,4 +1,4 @@
-<h1 align="center">📈 StockPulse</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Cloud-Native+Stock+Platform;Real+NSE+Market+Data+Dashboard;Spring+Boot+%2B+React+%2B+Kubernetes+Ready;Built+with+Production+Engineering+Mindset" />
