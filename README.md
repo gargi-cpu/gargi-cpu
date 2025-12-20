@@ -1,3 +1,9 @@
+<h1 align="center">📈 StockPulse</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Cloud-Native+Stock+Platform;Real+NSE+Market+Data+Dashboard;Spring+Boot+%2B+React+%2B+Kubernetes+Ready;Built+with+Production+Engineering+Mindset" />
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
@@ -50,6 +56,56 @@ Scalable async backend for AI tasks (speech synthesis)
   <img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_Cloud-Certified-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
+## 🚀 Project Overview
+
+**StockPulse** is a full-stack, cloud-native stock dashboard that fetches **real NSE (India) stock data** and presents it through a clean backend-driven architecture.
+
+Unlike typical student projects that rely on static or outdated dummy data, StockPulse is designed to reflect **how real SaaS engineering teams build, deploy, and scale systems**.
+
+This project is actively developed with an **intern-to-production mindset**, focusing on clean APIs, scalability, and cloud readiness.
+## 🌟 Why StockPulse Stands Out
+
+- ❌ No hard-coded or fake stock data
+- ✅ Real NSE market data via public APIs
+- 🧠 Backend-first, API-driven architecture
+- 🧩 Clean separation of concerns (controller, service, client, DTO)
+- ☁️ Designed for Kubernetes & cloud-native deployment
+- 👨‍💻 Built incrementally like real industry projects
+## ☸️ Kubernetes & Cloud-Native Readiness
+
+StockPulse is intentionally designed to be **Kubernetes-ready**, even before containerization.
+
+### Cloud-Native Design Principles Applied
+- Stateless backend service
+- Externalized configuration (12-factor app style)
+- API-first architecture
+- Health & readiness probes via Spring Boot Actuator
+
+### Kubernetes Alignment
+- Suitable for deployment as a single microservice
+- Compatible with Kubernetes Services & Ingress
+- Ready for Horizontal Pod Autoscaling (HPA)
+- Designed to work with ConfigMaps and Secrets
+- Can be governed using policy-as-code tools like **Kyverno**
+
+> This demonstrates practical Kubernetes thinking, not just Docker usage.
+
+## 🤖 AI & LLM Awareness (Future Scope)
+
+While StockPulse is currently focused on core system engineering, it is designed to be **AI-extensible**.
+
+### Potential LLM-Driven Enhancements
+- AI-powered stock summaries (LLM-generated insights)
+- Natural language stock search (e.g. "Show top gainers today")
+- Market trend explanations using LLM APIs
+- Backend-mediated LLM calls (no direct frontend exposure)
+
+The architecture ensures:
+- Secure AI integration through backend services
+- Observability and rate-limiting for AI APIs
+- Cloud-native scaling of AI-powered features
+
+> This shows awareness of modern AI systems without over-claiming implementation.
 
 ## 📊 GitHub Stats
 <p align="center">
