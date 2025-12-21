@@ -107,8 +107,11 @@ flowchart LR
     Queue --> Worker[Background Workers]
     Worker --> Stream[Streaming Response]
     Stream --> Client
+
+
 🔗 GitHub Repository:
 👉 https://github.com/gargi-cpu/async-task-processing-system
+
 
 ### 🥉 Trading Portfolio Microservice
 **Java | Spring Boot | SQL | REST APIs**
@@ -142,8 +145,11 @@ flowchart LR
     Service --> Repository
     Repository --> DB[(SQL Database)]
 
+
+
 🔗 GitHub Repository:
 👉 https://github.com/gargi-cpu/trading-portfolio-microservice-docs
+
 
 ### 🔊 AI Speech Synthesis System
 **Python | FastAPI | SQL | Streaming APIs**
@@ -177,9 +183,13 @@ flowchart LR
     TTS --> Stream[Audio Streaming]
     Stream --> Client
 
+
+
 🔗 GitHub Repository:
 👉 https://github.com/gargi-cpu/ai-speech-synthesis-system-docs
     
+
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gargi-cpu&show_icons=true&theme=tokyonight&include_all_commits=true" alt="stats" />
