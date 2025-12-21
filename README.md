@@ -141,6 +141,7 @@ flowchart LR
     Controller --> Service
     Service --> Repository
     Repository --> DB[(SQL Database)]
+
 🔗 GitHub Repository:
 👉 https://github.com/gargi-cpu/trading-portfolio-microservice-docs
 
@@ -175,6 +176,7 @@ flowchart LR
     API --> TTS[Speech Synthesis Engine]
     TTS --> Stream[Audio Streaming]
     Stream --> Client
+
 🔗 GitHub Repository:
 👉 https://github.com/gargi-cpu/ai-speech-synthesis-system-docs
     
