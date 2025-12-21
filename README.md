@@ -34,80 +34,150 @@
 | Microsoft & SAP     | AI & Full-Stack Intern | 2025          | Real-time streaming, FastAPI   |
 | EY Global Delivery  | Full-Stack Intern     | Feb–Mar 2025  | MERN Stack, REST APIs          |
 
-## 🔥 Featured Projects
-### [StockPulse](https://github.com/gargi-cpu/stockpulse) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-Full-stack cloud-native stock dashboard with **real NSE data** (no dummy data!)
-- Clean Spring Boot backend (layered architecture)
-- Real public API integration
-- Actuator, external config, CORS
-- Fancy React frontend **in progress**
+## 🏆 Featured Projects
+---
 
-### [Async Task Processing System](https://github.com/gargi-cpu/async-task-processing-system) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-Scalable async backend for AI tasks (speech synthesis)
-- FastAPI + async workers
-- Real-time streaming
-- 25% faster processing
+### 🥇 🏆 StockPulse — Cloud-Native Stock Analytics Platform
+**Java | Spring Boot | React | REST APIs | Cloud-Native**
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-Expert-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-In_Progress-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-Certified-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-## 🚀 Project Overview
+⭐ **Most Impressive Project**  
+*Demonstrates real-world backend engineering with live market data*
 
-**StockPulse** is a full-stack, cloud-native stock dashboard that fetches **real NSE (India) stock data** and presents it through a clean backend-driven architecture.
+---
 
-Unlike typical student projects that rely on static or outdated dummy data, StockPulse is designed to reflect **how real SaaS engineering teams build, deploy, and scale systems**.
+#### 📌 Project Overview
+Full-stack, cloud-native stock dashboard using **real NSE (India) market data** — built with a production engineering mindset.
 
-This project is actively developed with an **intern-to-production mindset**, focusing on clean APIs, scalability, and cloud readiness.
-## 🌟 Why StockPulse Stands Out
+#### ✅ Key Highlights
+- ❌ No dummy or static data — **real public API integration**
+- 🧠 Clean **Spring Boot layered architecture**  
+  *(Controller → Service → Client → DTO)*
+- ⚙️ Integrated **Spring Actuator**, external configuration, and CORS
+- ☁️ Backend-first, API-driven design focused on scalability
+- 🎨 Modern **React frontend (in progress)**
 
-- ❌ No hard-coded or fake stock data
-- ✅ Real NSE market data via public APIs
-- 🧠 Backend-first, API-driven architecture
-- 🧩 Clean separation of concerns (controller, service, client, DTO)
-- ☁️ Designed for Kubernetes & cloud-native deployment
-- 👨‍💻 Built incrementally like real industry projects
-## ☸️ Kubernetes & Cloud-Native Readiness
+#### 🧠 Skills Demonstrated
+`Java` · `Spring Boot` · `REST APIs` · `Layered Architecture` · `Cloud-Native Design` · `API Security` · `React (basic)`
 
-StockPulse is intentionally designed to be **Kubernetes-ready**, even before containerization.
+#### 🏗 Architecture Diagram
+``
+flowchart LR
+    UI[React Frontend]
+    API[Spring Boot REST API]
+    SVC[Service Layer]
+    EXT[External NSE APIs]
+    DB[(Database)]
 
-### Cloud-Native Design Principles Applied
-- Stateless backend service
-- Externalized configuration (12-factor app style)
-- API-first architecture
-- Health & readiness probes via Spring Boot Actuator
+    UI --> API
+    API --> SVC
+    SVC --> EXT
+    SVC --> DBb
+🔗 GitHub Repository:
+👉 https://github.com/gargi-cpu/StockPulse
 
-### Kubernetes Alignment
-- Suitable for deployment as a single microservice
-- Compatible with Kubernetes Services & Ingress
-- Ready for Horizontal Pod Autoscaling (HPA)
-- Designed to work with ConfigMaps and Secrets
-- Can be governed using policy-as-code tools like **Kyverno**
+### 🥈 Async Task Processing System — Scalable AI Backend
+**Python | FastAPI | Async Workers | Streaming APIs**
 
-> This demonstrates practical Kubernetes thinking, not just Docker usage.
+---
 
-## 🤖 AI & LLM Awareness (Future Scope)
+#### 📌 Project Overview
+A high-performance asynchronous backend designed for **AI workloads such as speech synthesis**, inspired by modern AI SaaS systems.
 
-While StockPulse is currently focused on core system engineering, it is designed to be **AI-extensible**.
+---
 
-### Potential LLM-Driven Enhancements
-- AI-powered stock summaries (LLM-generated insights)
-- Natural language stock search (e.g. "Show top gainers today")
-- Market trend explanations using LLM APIs
-- Backend-mediated LLM calls (no direct frontend exposure)
+#### ✅ Key Highlights
+- ⚡ Fully asynchronous task execution  
+- 🔄 Background workers for heavy AI processing  
+- 📡 Real-time streaming APIs (Kafka-like flow)  
+- 🚀 ~25% faster processing via optimized async patterns  
+- 🧩 Production-style task lifecycle management  
 
-The architecture ensures:
-- Secure AI integration through backend services
-- Observability and rate-limiting for AI APIs
-- Cloud-native scaling of AI-powered features
+---
 
-> This shows awareness of modern AI systems without over-claiming implementation.
+#### 🧠 Skills Demonstrated
+`Python` · `FastAPI` · `Async/Await` · `Concurrency` · `Streaming APIs` · `Performance Optimization`
 
+---
+
+#### 🏗 Architecture Diagram
+``mermaid
+flowchart LR
+    Client --> API[FastAPI Server]
+    API --> Queue[Async Task Queue]
+    Queue --> Worker[Background Workers]
+    Worker --> Stream[Streaming Response]
+    Stream --> Client
+🔗 GitHub Repository:
+👉 https://github.com/gargi-cpu/async-task-processing-system
+
+### 🥉 Trading Portfolio Microservice
+**Java | Spring Boot | SQL | REST APIs**
+
+---
+
+#### 📌 Project Overview
+Backend microservice for managing **portfolio analytics and stock orders**, built using clean, scalable Java backend principles.
+
+---
+
+#### ✅ Key Highlights
+- Java microservices using **OOP, MVC, and SQL**
+- REST APIs for **portfolio analytics and order management**
+- Implemented **multithreading, logging, and robust error handling**
+- Reduced API/UI latency by **25%**
+- Complete **API documentation and architectural diagrams**
+
+---
+
+#### 🧠 Skills Demonstrated
+`Java` · `Spring Boot` · `SQL` · `Microservices` · `Multithreading` · `System Design`
+
+---
+
+#### 🏗 Architecture Diagram
+``mermaid
+flowchart LR
+    Client --> Controller
+    Controller --> Service
+    Service --> Repository
+    Repository --> DB[(SQL Database)]
+🔗 GitHub Repository:
+👉 https://github.com/gargi-cpu/trading-portfolio-microservice-docs
+
+### 🔊 AI Speech Synthesis System
+**Python | FastAPI | SQL | Streaming APIs**
+
+---
+
+#### 📌 Project Overview
+Backend system for **real-time AI speech synthesis**, designed to handle low-latency audio generation using asynchronous processing and streaming APIs.
+
+---
+
+#### ✅ Key Highlights
+- Built **async backend APIs** for real-time text-to-speech (TTS)
+- Implemented **streaming audio responses** for low-latency playback
+- Designed job tracking using **SQL-based metadata storage**
+- Optimized audio generation pipelines, achieving **~25% faster processing**
+- Production-style error handling and request lifecycle management
+
+---
+
+#### 🧠 Skills Demonstrated
+`Python` · `FastAPI` · `Async/Await` · `Streaming APIs` · `SQL` · `Performance Optimization`
+
+---
+
+#### 🏗 Architecture Diagram
+``mermaid
+flowchart LR
+    Client --> API[FastAPI Server]
+    API --> TTS[Speech Synthesis Engine]
+    TTS --> Stream[Audio Streaming]
+    Stream --> Client
+🔗 GitHub Repository:
+👉 https://github.com/gargi-cpu/ai-speech-synthesis-system-docs
+    
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gargi-cpu&show_icons=true&theme=tokyonight&include_all_commits=true" alt="stats" />
